@@ -49,7 +49,7 @@ $all_brg=mysqli_fetch_array($total_brg);
 		?>
 	<tr>
 		<td><?php echo $no++?></td>
-		<td><?php echo $list_barang ['nama barang'];?></td>
+		<td><?php echo $list_barang ['nama_barang'];?></td>
 		<td><?php echo $list_barang ['alamat'];?>
         <td><?php echo $list_barang ['no_tlpn'];?>
 
