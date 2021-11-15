@@ -27,7 +27,7 @@
   </body>
 
   <?php
-include "koneksiii.php";
+include "koneksi.php";
 
 
 ?>
